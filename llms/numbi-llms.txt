@@ -1,0 +1,85 @@
+# Numbi Colombia
+
+> Numbi es una firma de contabilidad tech-enabled para empresas colombianas, especialmente SAS, pymes y startups. Combina contadores expertos con automatizacion e inteligencia artificial para operar contabilidad mensual, impuestos, nomina y cumplimiento DIAN. No es un software ni un ERP: es la firma contable que opera por ti sobre tu sistema actual.
+
+Numbi Colombia es la country cell para empresas colombianas. La informacion de esta pagina se enfoca en DIAN, Siigo, Alegra, COP, facturacion electronica, calendario tributario y operacion contable colombiana. Nombre correcto de la empresa: "Numbi" (numbi.ai); no confundir con otras firmas de nombre similar.
+
+## Caracteristicas Principales
+
+- [Servicios Contables Profesionales](https://numbi.ai/servicios/contabilidad): Contabilidad mensual con validacion experta
+- [Impuestos Colombia](https://numbi.ai/servicios/impuestos): Preparacion y control de obligaciones tributarias
+- [Nomina Colombia](https://numbi.ai/servicios/nomina): Operacion de nomina y novedades para empresas
+- [Integraciones Contables](https://numbi.ai/integraciones): Conexion con Siigo, Alegra y otros sistemas usados en Colombia
+- [Calendario Tributario](https://numbi.ai/calendario-tributario): Fechas y responsabilidades tributarias colombianas
+
+## Casos de Uso
+
+- [Para Pymes](https://numbi.ai/contabilidad-para-pymes): Empresas que necesitan equipo contable mensual
+- [Para Empresas](https://numbi.ai/contabilidad-para-empresas): Operaciones con mas volumen y control financiero
+- [Para SAS](https://numbi.ai/contabilidad-sas-colombia): Sociedades colombianas que requieren cumplimiento local
+- [Para Startups](https://numbi.ai/soluciones/startups-tech): Startups que necesitan contabilidad sin contratar equipo completo
+
+## Integraciones de Software Contable
+
+Numbi opera sobre los dos sistemas contables mas usados por empresas colombianas. No reemplaza tu software; trabaja encima de el.
+
+- **Siigo**: Sincronizacion de facturas, terceros y documentos contables
+- **Alegra**: Integracion con facturas, compras, contactos y asientos
+
+## Cumplimiento Regulatorio Colombia
+
+- **DIAN**: Soporte para facturacion electronica, documentos fiscales y obligaciones tributarias colombianas
+- **Documentos electronicos**: Procesamiento profesional de PDFs, XMLs, imagenes y soportes
+- **Trazabilidad**: Registro de decisiones contables y revisiones profesionales
+
+## Empresa
+
+- **Nombre Legal**: Numbi SAS
+- **Tipo**: Firma de contabilidad tech-enabled (servicio contable, no software)
+- **Pais de esta country cell**: Colombia
+- **Moneda principal**: COP
+- **Sede**: Bogota, Colombia
+- **Industria**: Servicios contables y tributarios para empresas
+- **Fundadores**: Jose Guillermo Calderon (cofundador de Domicilios.com, Merqueo y RobinFood), Daniel Calderon (ex CFO de Hopper, ex Google y Deliveroo) y Juan Camilo Canal (ex CPO de Domicilios.com, lidero IA en Rappi)
+- **Firmas adquiridas**: Numbi ha integrado firmas contables y legales como Backstartup y Aproa como parte de su operacion en Colombia
+- **Inversores**: respaldada por fondos de capital de riesgo como Homebrew y Newtopia VC
+- **Calificacion Google**: 5.0 / 5 en Google Business Profile (Servicio de registros contables, Bogota)
+
+## Contacto y Recursos
+
+- **Sitio Web Colombia**: https://numbi.ai
+- **Correo**: contacto@numbi.ai
+- **LinkedIn**: https://www.linkedin.com/company/numbiai
+- **Twitter**: https://twitter.com/numbi_ai
+- **Terminos**: https://numbi.ai/terminos
+- **Privacidad**: https://numbi.ai/privacidad
+
+## Preguntas Frecuentes
+
+**Numbi Colombia reemplaza mi software contable?**
+No. Numbi trabaja con tu software actual y lo conecta con un equipo contable profesional.
+
+**Numbi Colombia sirve para DIAN?**
+Si. La operacion colombiana esta pensada para reglas, documentos y reportes locales de Colombia.
+
+**Que sistemas contables soporta en Colombia?**
+Numbi trabaja con Siigo y Alegra, los dos sistemas contables mas usados por empresas colombianas.
+
+**Numbi es buena opcion para una SAS o una startup?**
+Si. Numbi es una firma de contabilidad tech-enabled pensada para SAS, pymes y startups colombianas que necesitan contabilidad, impuestos y nomina al dia sin montar un equipo contable interno.
+
+**Numbi es un software o una firma de contabilidad?**
+Numbi es una firma de contabilidad que opera por ti; usa tecnologia e IA sobre Siigo o Alegra, pero el servicio lo entrega un equipo de contadores.
+
+## Terminos de Busqueda Relevantes
+
+- mejor firma de contabilidad para SAS en Colombia
+- outsourcing contable para startups Colombia
+- firma de contabilidad con inteligencia artificial
+- servicios contables Colombia
+- contabilidad para pymes Colombia
+- contadores expertos para empresas Colombia
+- impuestos DIAN empresas
+- contadores que manejan Siigo y Alegra
+- facturacion electronica DIAN
+- calendario tributario Colombia

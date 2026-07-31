@@ -1,20 +1,44 @@
 aid: numbi
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/numbi.png
 name: Numbi
-description: 'Numbi is a company surfaced as a portfolio company of homebrew and added to the API Evangelist
-  network as a stub for enrichment. Sector: fintech. This profile is a lead awaiting the enrichment pipeline.'
+description: 'Numbi is a tech-enabled accounting and payroll firm for Colombian companies
+  — especially SAS entities, SMBs, and startups. It pairs expert accountants with automation
+  and AI to run monthly bookkeeping, taxes, payroll, and DIAN electronic-invoicing compliance.
+  Numbi is a service rather than software or an ERP: it operates on top of a company''s
+  existing accounting systems (Siigo and Alegra) instead of replacing them, ingesting
+  documents (PDFs, XMLs, images) and keeping tax calendars and filings current. Founded
+  in Bogotá and backed by Homebrew and Newtopia VC. No public developer API surface is
+  published as of this pass.'
 url: https://raw.githubusercontent.com/api-evangelist/numbi/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - homebrew
+- newtopia-vc
 x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
 - Fintech
+- Accounting
+- Payroll
+- Tax Compliance
+- Bookkeeping
+- Colombia
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,5 +46,22 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/numbi-domain-security.yml
+- type: LLMsTxt
+  url: llms/numbi-llms.txt
 - type: Website
   url: https://numbi.ai
+- type: TermsOfService
+  url: https://numbi.ai/terminos
+- type: PrivacyPolicy
+  url: https://numbi.ai/privacidad
+- type: LinkedIn
+  url: https://www.linkedin.com/company/numbiai
+- type: Twitter
+  url: https://twitter.com/numbi_ai
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1
