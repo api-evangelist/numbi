@@ -71,6 +71,10 @@ common:
   url: https://www.linkedin.com/company/numbiai
 - type: Twitter
   url: https://twitter.com/numbi_ai
+- type: Blog
+  url: https://numbi.ai/blog
+- type: GitHubOrganization
+  url: https://github.com/backstartup
 x-enrichment:
   date: '2026-07-20'
   status: enriched
